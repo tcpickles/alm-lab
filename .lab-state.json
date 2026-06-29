@@ -15,5 +15,11 @@
   "testEnvName": "Warehouse test 5824",
   "testEnvDomain": "wm-test-5824",
   "testEnvUrl": "https://wm-test-5824.crm4.dynamics.com",
-  "testProfile": "test"
+  "testProfile": "test",
+  "appName": "wm-deploy-5824",
+  "appId": "cf09acc4-ef46-49d5-8871-002b7db9f8dd",
+  "appObjectId": "f3662cc0-5709-4a39-974e-df27948175e5",
+  "servicePrincipalObjectId": "1a425c1a-c289-4910-9743-0da2f4df5ced",
+  "federatedCredentialName": "github-main",
+  "dataverseTestUrl": "https://wm-test-5824.crm4.dynamics.com"
 }
