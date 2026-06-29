@@ -7,5 +7,13 @@
   "publisherPrefix": "almlab",
   "repo": "tcpickles/alm-lab",
   "mainRulesetId": 18266135,
-  "mainRulesetName": "alm-lab-main-protection"
+  "mainRulesetName": "alm-lab-main-protection",
+  "devEnvName": "Warehouse dev 5824",
+  "devEnvDomain": "wm-dev-5824",
+  "devEnvUrl": "https://wm-dev-5824.crm4.dynamics.com",
+  "devProfile": "dev",
+  "testEnvName": "Warehouse test 5824",
+  "testEnvDomain": "wm-test-5824",
+  "testEnvUrl": "https://wm-test-5824.crm4.dynamics.com",
+  "testProfile": "test"
 }
